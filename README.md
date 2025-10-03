@@ -2,7 +2,7 @@ LearnHub - Mini E-Learning Platform
 
 A clean, functional e-learning platform prototype built with HTML, CSS, and JavaScript. This project demonstrates a modern web application for course management, progress tracking, and user authentication.
 
-https://via.placeholder.com/800x400/4361ee/ffffff?text=LearnHub+E-Learning+Platform
+https://egrah-25.github.io/Mini-E-learning-platform-/
 
 🚀 Features
 
